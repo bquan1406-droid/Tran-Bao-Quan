@@ -13,5 +13,5 @@ Repo](https://github.com/xxxx/FinishedNextGenAssignment1) |
 | AdvancedMachineLearningAssignment1 | Advanced ML Assignment | [View
 Repo](https://github.com/xxxx/AdvancedMachineLearningAssignment1) |
 | NextGenDataScience2 | NGDS Module 2 Notebooks | [View
-Repo](https://github.com/xxxx/NextGenDataScience2) |
+Repo](https://github.com/bquan1406-droid/NextGenDataScience2.git) |
 
